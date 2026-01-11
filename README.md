@@ -65,7 +65,7 @@ Just works.
   * Purple
   * Violet
 * 🎛 **Button on GPIO0** to cycle colors
-* ⚡ **Multiple strobe modes**
+* ⚡ **Multiple strobe modes** -would add later for Bluetooth-
 
   * Normal strobe (`'1'`) – 10 seconds
   * Turbo strobe (`'2'`) – fast flash
